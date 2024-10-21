@@ -1,0 +1,7 @@
+{
+    "require": {
+        "mike42/escpos-php": "^4.0",
+        "cboden/ratchet": "^0.4.4",
+        "tecnickcom/tcpdf": "^6.7"
+    }
+}
